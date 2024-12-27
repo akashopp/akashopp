@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Leetcode Stats](https://leetcard.Akash_0P.cool/lapor?ext=contest)
+![Leetcode Stats](https://leetcard.jacoblin.cool/Akash_0P?ext=contest)
