@@ -1,4 +1,4 @@
-## 📈 Coding Profiles
+## 📈 Leetcode Profile
 
 <span>
 <!-- <a href="https://codeforces.com/profile/itzzRaghav">
